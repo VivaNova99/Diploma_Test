@@ -1,0 +1,17 @@
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\WordDocument2.dll.config
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\WordDocument2.dll
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\WordDocument2.pdb
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\WordDocument2.dll.manifest
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\WordDocument2.vsto
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\LichnayaKartochkaRabotnika.docx
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\obj\Debug\WordDocument2.csprojResolveAssemblyReference.cache
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\obj\Debug\WordDocument2.ThisDocument.resources
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\obj\Debug\WordDocument2.ActionsPaneControl1.resources
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\obj\Debug\WordDocument2.Properties.Resources.resources
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\obj\Debug\WordDocument2.csproj.GenerateResource.Cache
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\obj\Debug\WordDocument2.dll
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestDocumentWordLichnayaKartochka\WordDocument2\obj\Debug\WordDocument2.pdb

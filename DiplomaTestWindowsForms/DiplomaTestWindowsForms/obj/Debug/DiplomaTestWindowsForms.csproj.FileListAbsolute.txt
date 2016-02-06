@@ -1,0 +1,13 @@
+c:\users\veraivanova\documents\visual studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\DiplomaTestWindowsForms.exe.config
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.Designer.cs
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.xsc
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.xsd
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.xss
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\DiplomaTestWindowsForms.exe
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\DiplomaTestWindowsForms.pdb
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.csprojResolveAssemblyReference.cache
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.Form1.resources
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.Properties.Resources.resources
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.csproj.GenerateResource.Cache
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.exe
+c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.pdb
