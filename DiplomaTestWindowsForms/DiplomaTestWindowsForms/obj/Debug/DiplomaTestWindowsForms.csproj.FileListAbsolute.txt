@@ -11,3 +11,31 @@ c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsFor
 c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.csproj.GenerateResource.Cache
 c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.exe
 c:\Users\veraivanova\Documents\Visual Studio 2012\Projects\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.pdb
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\DiplomaTestWindowsForms.exe.config
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.exe
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.pdb
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.xsc
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.xsd
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.xss
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.Designer.cs
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\DiplomaTestWindowsForms.exe
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\DiplomaTestWindowsForms.pdb
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.Properties.Resources.resources
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.AddForm.resources
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.MainForm.resources
+C:\Users\Liza\Documents\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\DiplomaTestWindowsForms.exe.config
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.exe
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.pdb
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.Designer.cs
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.xsc
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.xsd
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\Diploma_TestDataSet.xss
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\DiplomaTestWindowsForms.exe
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\bin\Debug\DiplomaTestWindowsForms.pdb
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.AddForm.resources
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.MainForm.resources
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.Properties.Resources.resources
+C:\Users\Liza\Desktop\Diploma_Test\DiplomaTestWindowsForms\DiplomaTestWindowsForms\obj\Debug\DiplomaTestWindowsForms.csproj.GenerateResource.Cache
